@@ -23,8 +23,6 @@ I am a developer who loves writing clean and maintainable code. Find out more ab
 
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=talnaeh007&show_icons=true&theme=nord)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=talnaeh007)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talnaeh007&hide=TeX&layout=compact&show_icons=true&theme=nord)
