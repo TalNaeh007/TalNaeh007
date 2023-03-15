@@ -1,6 +1,6 @@
 ### Hi there, I am Tal Naeh 👋
 
-I am a devops engineer who loves writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am a DevOps Engineer who loves writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://il.linkedin.com/in/tal-naeh-3a2562195](https://il.linkedin.com/in/tal-naeh-3a2562195))](https://il.linkedin.com/in/tal-naeh-3a2562195)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talnaeh57@gmail.com)](mailto:talnaeh57@gmail.com)
